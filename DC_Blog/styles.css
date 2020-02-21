@@ -52,10 +52,11 @@ body {
 }
 .followDC button{
     color: white;
-    background-color: rgb(70, 161, 221);
+    background-color: rgb(66, 176, 209);
     font-family: Arial, Helvetica, sans-serif;
-    height: 40px;
-    width: 180px;
+    height: 33px;
+    width: 195px;
+    font-size: 14px;
 }
 .followDC {
     text-align: center;
